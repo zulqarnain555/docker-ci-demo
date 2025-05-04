@@ -26,4 +26,4 @@ jobs:
         with:
           context: ./myapp
           push: true
-          tags: zulqarnainkiani/main:latest
+          tags: zulqarnainkiani/docker-ci-demo:latest
