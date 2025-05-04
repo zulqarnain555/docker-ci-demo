@@ -3,7 +3,7 @@ const app = express();
 const port = 3200;
 
 app.get('/', (req, res) => {
-  res.send('Hello Zulqarnain! This is running on port 3200 🚀');
+  res.send('Hello Zulqarnain! GITHUB CICD 🚀');
 });
 
 app.listen(port, () => {
